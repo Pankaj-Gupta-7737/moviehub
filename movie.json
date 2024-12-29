@@ -2,23 +2,23 @@
     "movies": [
       {
         "id": "tt28510079",
-        "name": "Movie 1",
-        "iframe_url": "https://snowant327arh.com/play/tt28510079",
-        "image_url": "https://via.placeholder.com/150",
+        "name": "Pushpa-The-Rule-Part-2",
+        "iframe_url": "https://snowant327arh.com/play/tt16539454",
+        "image_url": "https://filmyfly.pe/uploads/posts/covers/Pushpa-The-Rule-Part-2-2024-Hindi.webp",
         "description": "This is the description of Movie 1."
       },
       {
         "id": "tt10919420",
         "name": Squid Game 2",
-        "iframe_url": "https://filmyfly.pe/uploads/posts/covers/squid-game-season-2-2024.webp",
-        "image_url": "https://via.placeholder.com/150",
+        "iframe_url": "https://snowant327arh.com/play/tt10919420",
+        "image_url": "https://filmyfly.pe/uploads/posts/covers/squid-game-season-2-2024.webp",
         "description": "This is the description of Movie 2."
       },
     {
       "id": "tt10919422",
-      "name": "Movie 3",
-      "iframe_url": "https://snowant327arh.com/play/tt10919420",
-      "image_url": "https://via.placeholder.com/150",
+      "name": "Thangalaan",
+      "iframe_url": "https://snowant327arh.com/play/tt23018924",
+      "image_url": "https://filmyfly.pe/uploads/posts/covers/Poster-Thangalaaan-2024.webp",
       "description": "This is the description of Movie 3."
     }  
     ]
